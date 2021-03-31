@@ -1,5 +1,5 @@
 # Dummy JSON API Server
-This project was created using [JSON Server](https://www.npmjs.com/package/json-server]) package. If you need a fake service in the development process, you can edit it as you wish.
+This project was created using [JSON Server](https://www.npmjs.com/package/json-server) package. If you need a fake service in the development process, you can edit it as you wish.
 
 &nbsp;
 **You can find out how it is used at https://www.npmjs.com/package/json-server.**
